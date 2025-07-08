@@ -86,3 +86,41 @@ body {
   z-index: 1000;
   transition: background 0.3s, color 0.3s;
 }
+
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  padding: 1.2em 0 1.2em 0;
+  background: var(--team-bg);
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 2em;
+}
+body.night .main-nav {
+  border-bottom: 1px solid #32373b;
+}
+
+.nav-btn {
+  display: inline-block;
+  padding: 0.5em 1.3em;
+  border-radius: 2em;
+  background: none;
+  color: var(--text);
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: background 0.2s, color 0.2s, border 0.2s;
+}
+.nav-btn:hover,
+.nav-btn:focus {
+  background: var(--link);
+  color: #fff;
+  border: 1px solid var(--link);
+  text-decoration: none;
+}
+body.night .nav-btn:hover,
+body.night .nav-btn:focus {
+  background: var(--link);
+  color: #222;
+  border: 1px solid var(--link);
+}
