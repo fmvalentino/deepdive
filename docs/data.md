@@ -1,7 +1,15 @@
-# Public Data Release
+---
+layout: default
+title: Public Data
+---
+
+# Public Data
 
 We provide public access to our datasets.
 
 - **Description:** Briefly describe the dataset.
 - **Download:** [Download here](https://example.com/data.zip)
 - **Format:** Describe file formats, size, etc.
+
+If you use our data, please cite:  
+*DeepDive Project, 2025, DOI:xxxxxxx*

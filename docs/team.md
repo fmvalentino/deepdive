@@ -1,8 +1,16 @@
+---
+layout: default
+title: Team
+---
+
 # Team
 
 Meet the DeepDive team!
 
-| Name                      | Institute          |
-|---------------------------|------------------|
-| Francesco Valentino                  | Dawn, DTU-Space |
-| Kei Ito   | Dawn, DTU-Space |
+| Name         | Role             | Contact          |
+|--------------|------------------|------------------|
+| Jane Doe     | Principal Investigator | jane@example.com |
+| John Smith   | Researcher       | john@example.com |
+| ...          | ...              | ...              |
+
+We are a multidisciplinary team passionate about open science.

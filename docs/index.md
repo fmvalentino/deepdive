@@ -1,7 +1,6 @@
 ---
 layout: default
 title: DeepDive Program
-theme: minima
 ---
 
 # DeepDive Program
@@ -12,5 +11,11 @@ Welcome to the DeepDive program website.
 
 DeepDive is a project that...
 
-- **Purpose:** Explain the main goals here.
+- **Purpose:** Briefly explain the main goals here.
 - **Features:** List the main features or objectives.
+
+Explore the sections below to learn more about our data, publications, and team.
+
+- [Public Data](data.md)
+- [Publications](publications.md)
+- [Team](team.md)
