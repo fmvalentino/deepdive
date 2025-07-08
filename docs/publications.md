@@ -7,7 +7,8 @@ title: Publications
 
 A list of our key publications:
 
-- [Title 1](#) – Author(s), Journal/Conference, Year.
-- [Title 2](#) – Author(s), Journal/Conference, Year.
+- [DeepDive: A deep dive into the physics of the first massive quiescent galaxies in the Universe ](https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract) **(Survey paper)** – Ito, K., Valentino, F., Brammer G., et al., A&A, 2025 (submitted).
 
-If you would like to collaborate or learn more about our research, please contact us!
+- [A merging pair of massive quiescent galaxies at z = 3.44 in the Cosmic Vine](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.111I/abstract) – Ito, K., Valentino, F., Farcy, M. et al., A&A, 697, 111 (2025).
+
+- [ Gas outflows in two recently quenched galaxies at z = 4 and 7 ](https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract) –  Valentino, F., Heintz, K. E., Brammer, G. et al., A&A (2025).
