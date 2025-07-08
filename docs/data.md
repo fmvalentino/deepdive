@@ -3,9 +3,11 @@ layout: default
 title: Public Data
 ---
 
-# Public Data
+# Data releases
 
-We provide public access to our datasets.
+Imaging
+
+Spectroscopy
 
 - **Description:** Briefly describe the dataset.
 - **Download:** [Download here](https://example.com/data.zip)
