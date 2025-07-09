@@ -95,13 +95,16 @@ a:hover {
 
 /* Page header styles */
 .page-header {
-  // height: 30vh; /* fixed height as before */
+  position: relative;
+  width: 100%; /* full width */
   background: url('/images/banner_deepdive_targets.png') repeat-x center center;
-  background-size: auto 100%; /* scale height fully, width auto */
+  background-size: auto 100%; /* scale height to 100%, width auto */
   color: white;
   padding: 2rem 1rem;
-  position: relative;
 
+  /* Use padding-top for responsive height based on aspect ratio */
+  padding-top: 20vh; /* adjust this to your banner image's aspect ratio */
+  
   display: flex;
   flex-direction: column;
   justify-content: center; /* vertical centering */
@@ -120,5 +123,4 @@ a:hover {
 .page-header > * {
   position: relative;
   z-index: 1;
-  color: white !important;
 }
