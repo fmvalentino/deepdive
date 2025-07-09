@@ -48,15 +48,6 @@ body.night {
   transition: background 0.3s, color 0.3s;
 }
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6 {
-  color: var(--text);
-  transition: color 0.3s;
-}
 
 /* Base styles for light/dark */
 body {
