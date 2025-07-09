@@ -1,4 +1,4 @@
-// This code toggles between night and day modes for a website.
+// This script toggles between night and day modes for the website.
 (function () {
   function setMode(mode) {
     if (mode === 'night') {
@@ -28,4 +28,3 @@
     }
   }
 })();
-
