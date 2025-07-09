@@ -1,4 +1,4 @@
-// This script toggles between night and day modes for the website.
+// Toggle between night and day themes, saving preference in localStorage
 (function () {
   function setMode(mode) {
     if (mode === 'night') {
