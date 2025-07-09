@@ -48,10 +48,12 @@ body {
 
 /* Restrict width and center content */
 .main-content {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-  text-align: left;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  line-height: 1.6;
+  font-size: 1.05rem;
+  word-wrap: break-word;
 }
 
 
