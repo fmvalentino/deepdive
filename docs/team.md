@@ -15,141 +15,38 @@ title: Team
 
 Alphabetical order:
 
-<div class="team-table">
-  <div class="team-row">
-    <div class="team-name">Jacqueline Antwi-Danso</div>
-    <div class="team-affil">University of Toronto</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">William Baker</div>
-    <div class="team-affil">DAWN, University of Copenhagen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">David Blanquez Sese</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Gabriel Brammer</div>
-    <div class="team-affil">DAWN, University of Copenhagen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Daniel Ceverino</div>
-    <div class="team-affil">Universidad Autonoma de Madrid</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Andreas Faisst</div>
-    <div class="team-affil">Caltech</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Marion Farcy</div>
-    <div class="team-affil">EPFL</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Seiji Fujimoto</div>
-    <div class="team-affil">University of Toronto</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Anna Gallazzi</div>
-    <div class="team-affil">INAF Firenze</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Steven Gillman</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Rashmi Gottumukkala</div>
-    <div class="team-affil">DAWN, University of Copenhagen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Massissilia Hamadouche</div>
-    <div class="team-affil">University of Massachusetts Amherst</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Kasper Heintz</div>
-    <div class="team-affil">DAWN, University of Copenhagen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Michaela Hirschmann</div>
-    <div class="team-affil">EPFL</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Olivier Ilbert</div>
-    <div class="team-affil">LAM</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Kei Ito</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Christian Kragh Jespersen</div>
-    <div class="team-affil">Princeton University</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Takumi Kakimoto</div>
-    <div class="team-affil">National Astronomical Observatory of Japan</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Vasily Kokorev</div>
-    <div class="team-affil">University of Texas at Austin</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Kubo Mariko</div>
-    <div class="team-affil">Kwansei Gakuin University</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Minju Lee</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Georgios Magdis</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Alison Man</div>
-    <div class="team-affil">University of British Columbia</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Masato Onodera</div>
-    <div class="team-affil">National Astronomical Observatory of Japan</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Francesca Rizzo</div>
-    <div class="team-affil">University of Groningen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Rhythm Shimakawa</div>
-    <div class="team-affil">Waseda University</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Masayuki Tanaka</div>
-    <div class="team-affil">National Astronomical Observatory of Japan</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Sune Toft</div>
-    <div class="team-affil">DAWN, University of Copenhagen</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Francesco Valentino (PI)</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Aswin Vijayan</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">John Weaver</div>
-    <div class="team-affil">University of Massachusetts Amherst</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Katherine Whitaker</div>
-    <div class="team-affil">University of Massachusetts Amherst</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Po-Feng Wu</div>
-    <div class="team-affil">National Taiwan University</div>
-  </div>
-  <div class="team-row">
-    <div class="team-name">Pengpei Zhu</div>
-    <div class="team-affil">DAWN, DTU-Space</div>
-  </div>
+<div class="team-list">
+  <div class="team-member">Jacqueline Antwi-Danso (University of Toronto)</div>
+  <div class="team-member">William Baker (DAWN, University of Copenhagen)</div>
+  <div class="team-member">Gabriel Brammer (DAWN, University of Copenhagen)</div>
+  <div class="team-member">Daniel Ceverino (Universidad Autonoma de Madrid)</div>
+  <div class="team-member">Andreas Faisst (Caltech)</div>
+  <div class="team-member">Marion Farcy (EPFL)</div>
+  <div class="team-member">Seiji Fujimoto (University of Toronto)</div>
+  <div class="team-member">Anna Gallazzi (INAF Firenze)</div>
+  <div class="team-member">Steven Gillman (DAWN, DTU-Space)</div>
+  <div class="team-member">Rashmi Gottumukkala (DAWN, University of Copenhagen)</div>
+  <div class="team-member">Massissilia Hamadouche (University of Massachusetts Amherst)</div>
+  <div class="team-member">Kasper Heintz (DAWN, University of Copenhagen)</div>
+  <div class="team-member">Michaela Hirschmann (EPFL)</div>
+  <div class="team-member">Olivier Ilbert (LAM)</div>
+  <div class="team-member">Kei Ito (DAWN, DTU-Space)</div>
+  <div class="team-member">Christian Kragh Jespersen (Princeton University)</div>
+  <div class="team-member">Takumi Kakimoto (National Astronomical Observatory of Japan)</div>
+  <div class="team-member">Vasily Kokorev (University of Texas at Austin)</div>
+  <div class="team-member">Kubo Mariko (Kwansei Gakuin University)</div>
+  <div class="team-member">Minju Lee (DAWN, DTU-Space)</div>
+  <div class="team-member">Georgios Magdis (DAWN, DTU-Space)</div>
+  <div class="team-member">Allison Man (University of British Columbia)</div>
+  <div class="team-member">Masato Onodera (National Astronomical Observatory of Japan)</div>
+  <div class="team-member">Francesca Rizzo (University of Groningen)</div>
+  <div class="team-member">Rhythm Shimakawa (Waseda University)</div>
+  <div class="team-member">Masayuki Tanaka (National Astronomical Observatory of Japan)</div>
+  <div class="team-member">Sune Toft (DAWN, University of Copenhagen)</div>
+  <div class="team-member">Francesco Valentino (PI) (DAWN, DTU-Space)</div>
+  <div class="team-member">Aswin Vijayan (DAWN, DTU-Space)</div>
+  <div class="team-member">John Weaver (University of Massachusetts Amherst)</div>
+  <div class="team-member">Katherine Whitaker (University of Massachusetts Amherst)</div>
+  <div class="team-member">Po-Feng Wu (National Taiwan University)</div>
+  <div class="team-member">Pengpei Zhu (DAWN, DTU-Space)</div>
 </div>

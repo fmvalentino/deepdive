@@ -25,40 +25,24 @@ body {
 }
 
 /* Team section styles */
-.team-table {
+.team-list {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
+  gap: 0.5rem 2rem;
   margin-top: 1rem;
-}
-
-@media (min-width: 768px) {
-  .team-table {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-.team-row {
-  padding: 0.5rem;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: 0.5rem;
-  background-color: var(--team-bg);
-  transition: background 0.3s, border 0.3s;
-}
-
-body.night .team-row {
-  border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.team-name {
-  font-weight: bold;
   color: var(--team-name);
 }
 
-.team-affil {
-  font-size: 0.9em;
-  color: var(--team-affil);
+@media (min-width: 768px) {
+  .team-list {
+    grid-template-columns: 1fr 1fr; /* two columns on desktop */
+  }
 }
+
+.team-member {
+  font-weight: normal;
+}
+
 
 /* Example toggle button style (optional, adjust as needed) */
 .night-day-toggle {
