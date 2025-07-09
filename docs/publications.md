@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Publications
+title: DeepDive
 ---
 
-<nav class="main-nav">
+<!-- <nav class="main-nav">
   <a href="/deepdive/" class="nav-btn">Home</a>
   <a href="/deepdive/publications.html" class="nav-btn">Publications</a>
   <a href="/deepdive/team.html" class="nav-btn">Team</a>
   <a href="/deepdive/data.html" class="nav-btn">Data</a>
-</nav>
+</nav> -->
 
 
 # Publications
