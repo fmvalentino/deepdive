@@ -45,6 +45,16 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
+
+/* Restrict width and center content */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  text-align: left;
+}
+
+
 /* Team list styling: two columns on desktop */
 .team-list {
   display: grid;
