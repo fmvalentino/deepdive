@@ -11,7 +11,9 @@
   <!-- Night/Day toggle -->
   <button class="night-day-toggle" onclick="toggleNightMode()">🌙 / ☀️</button>
 
-  <header class="page-header" role="banner">
+  <!-- Inline style for header background -->
+  <header class="page-header" role="banner"
+    style="background-image: url('{{ '/images/banner_deepdive_targets.png' | relative_url }}');">
     <div class="header-overlay">
       <h1 class="project-name">{{ site.title }}</h1>
       {% if site.description %}
