@@ -102,12 +102,17 @@ h1, h2, h3, h4, h5, h6,
 
 /* Page header styles */
 .page-header {
-  height: 30vh; /* 30% of viewport height */
+  height: 300px; /* fixed height */
   background: url('/images/banner_deepdive_targets.png') no-repeat center center;
-  background-size: auto 100%;
+  background-size: cover; /* cover ensures the entire header is filled */
   color: white;
   padding: 2rem 1rem;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertically centers the content */
+  align-items: center;     /* horizontally centers the content */
+  text-align: center;
 }
 
 .page-header::before {
