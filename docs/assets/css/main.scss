@@ -102,7 +102,9 @@ h1, h2, h3, h4, h5, h6,
 
 /* Page header styles */
 .page-header {
-  background-size: cover;
+  height: 30vh; /* 30% of viewport height */
+  background: url('/images/banner_deepdive_targets.png') no-repeat center center;
+  background-size: auto 100%;
   color: white;
   padding: 2rem 1rem;
   position: relative;
