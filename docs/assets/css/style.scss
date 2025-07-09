@@ -1,46 +1,16 @@
-// === Variables (night/day colors) ===
+---
+---
 
-:root {
-  --bg: #f6f8fa;
-  --text: #24292e;
-  --link: #0366d6;
-  --team-bg: #fff;
-  --team-name: #24292e;
-  --team-affil: #555;
-}
+/* Base Cayman styles come from theme gem, we add custom tweaks below */
 
-body.night {
-  --bg: #0d1117;
-  --text: #c9d1d9;
-  --link: #58a6ff;
-  --team-bg: #161b22;
-  --team-name: #c9d1d9;
-  --team-affil: #8b949e;
-  transition: background 0.3s, color 0.3s;
-}
-
-// === Base styles ===
-
-body {
-  background-color: var(--bg);
-  color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  line-height: 1.6;
-  transition: background 0.3s, color 0.3s;
-  margin: 0; // reset default margin
-}
-
-// === Content wrapper to limit line width ===
-
-.content-wrapper {
+/* Reset some spacing for nicer margins */
+.content {
   max-width: 720px;
-  margin: 2rem auto;
-  padding: 0 1.25rem;
+  margin: 0 auto 3rem auto;
+  padding: 0 1rem;
 }
 
-// === Team section styles ===
-
+/* Team list in two columns on desktop */
 .team-list {
   display: grid;
   grid-template-columns: 1fr;
@@ -50,7 +20,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 0 1rem;
-  color: var(--team-name);
+  color: var(--team-name, #222);
 }
 
 @media (min-width: 768px) {
@@ -64,14 +34,13 @@ body {
   padding: 0.3rem 0;
 }
 
-// === Night/Day toggle button ===
-
+/* Night/day toggle button */
 .night-day-toggle {
   position: fixed;
   top: 1em;
   right: 1em;
-  background: var(--team-bg);
-  color: var(--text);
+  background: var(--color-canvas-subtle, #fff);
+  color: var(--color-fg-default, #222);
   border: 1px solid #ccc;
   border-radius: 2em;
   padding: 0.5em 1.2em;
@@ -80,45 +49,28 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
-// === Navigation and buttons ===
-
-.main-nav {
-  display: flex;
-  justify-content: center;
-  gap: 1em;
-  padding: 1.2em 0;
-  background: var(--team-bg);
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 2em;
+/* Dark mode color variables */
+:root {
+  --bg: #f6f8fa;
+  --text: #222;
+  --link: #0366d6;
+  --team-bg: #fff;
+  --team-name: #222;
+  --team-affil: #555;
 }
 
-body.night .main-nav {
-  border-bottom: 1px solid #32373b;
+body.night {
+  --bg: #181c1f;
+  --text: #e9e9e9;
+  --link: #58a6ff;
+  --team-bg: #23272b;
+  --team-name: #e9e9e9;
+  --team-affil: #b0b8c1;
+  transition: background 0.3s, color 0.3s;
 }
 
-.nav-btn {
-  display: inline-block;
-  padding: 0.5em 1.3em;
-  border-radius: 2em;
-  background: none;
+body {
+  background: var(--bg);
   color: var(--text);
-  font-weight: 500;
-  text-decoration: none;
-  border: 1px solid transparent;
-  transition: background 0.2s, color 0.2s, border 0.2s;
-}
-
-.nav-btn:hover,
-.nav-btn:focus {
-  background: var(--link);
-  color: #fff;
-  border: 1px solid var(--link);
-  text-decoration: none;
-}
-
-body.night .nav-btn:hover,
-body.night .nav-btn:focus {
-  background: var(--link);
-  color: #222;
-  border: 1px solid var(--link);
+  transition: background 0.3s, color 0.3s;
 }
