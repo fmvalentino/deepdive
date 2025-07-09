@@ -1,2 +1,5 @@
 title: DeepDive
-baseurl: "/deepdive"
+description: A JWST Spectroscopic and Imaging Program
+theme: null
+markdown: kramdown
+permalink: pretty
