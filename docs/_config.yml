@@ -1,10 +1,2 @@
 title: DeepDive
 theme: jekyll-theme-cayman
-
-# Enable plugins if needed
-plugins:
-  - jekyll-feed
-
-# Optional: cache busting variable
-github:
-  build_revision: 1

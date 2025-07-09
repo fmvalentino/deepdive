@@ -1,40 +1,10 @@
 ---
 ---
 
-/* Base Cayman styles come from theme gem, we add custom tweaks below */
+/* Import the Cayman theme styles */
+@import "jekyll-theme-cayman";
 
-/* Reset some spacing for nicer margins */
-.content {
-  max-width: 720px;
-  margin: 0 auto 3rem auto;
-  padding: 0 1rem;
-}
-
-/* Team list in two columns on desktop */
-.team-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.75rem 2rem;
-  margin-top: 2rem;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 1rem;
-  color: var(--team-name, #222);
-}
-
-@media (min-width: 768px) {
-  .team-list {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-.team-member {
-  font-weight: normal;
-  padding: 0.3rem 0;
-}
-
-/* Night/day toggle button */
+/* Custom night/day toggle button styles */
 .night-day-toggle {
   position: fixed;
   top: 1em;
@@ -49,7 +19,7 @@
   transition: background 0.3s, color 0.3s;
 }
 
-/* Dark mode color variables */
+/* Dark mode CSS variables */
 :root {
   --bg: #f6f8fa;
   --text: #222;
@@ -73,4 +43,28 @@ body {
   background: var(--bg);
   color: var(--text);
   transition: background 0.3s, color 0.3s;
+}
+
+/* Team list styling: two columns on desktop */
+.team-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem 2rem;
+  margin-top: 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1rem;
+  color: var(--team-name);
+}
+
+@media (min-width: 768px) {
+  .team-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.team-member {
+  font-weight: normal;
+  padding: 0.3rem 0;
 }

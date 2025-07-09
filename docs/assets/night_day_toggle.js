@@ -1,4 +1,4 @@
-// Toggle between night and day themes, saving preference in localStorage
+// Toggle night/day mode with localStorage persistence
 (function () {
   function setMode(mode) {
     if (mode === 'night') {
