@@ -19,6 +19,14 @@
     {% if site.github.repository_url %}
     <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
     {% endif %}
+
+    <!-- Navigation Menu -->
+    <nav class="nav-links" style="margin-top: 1.5rem;">
+      <a class="btn" href="{{ '/index.html' | relative_url }}">Home</a>
+      <a class="btn" href="{{ '/data.html' | relative_url }}">Public Data</a>
+      <a class="btn" href="{{ '/publications.html' | relative_url }}">Publications</a>
+      <a class="btn" href="{{ '/team.html' | relative_url }}">Team</a>
+    </nav>
   </header>
 
   <main class="main-content" role="main">
