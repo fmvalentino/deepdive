@@ -12,20 +12,22 @@
   <button class="night-day-toggle" onclick="toggleNightMode()">🌙 / ☀️</button>
 
   <header class="page-header" role="banner">
-    <h1 class="project-name">{{ site.title }}</h1>
-    {% if site.description %}
-    <h2 class="project-tagline">{{ site.description }}</h2>
-    {% endif %}
-
-    <!-- Unified Button Group -->
-    <div class="button-group">
-      <a class="btn" href="{{ '/index.html' | relative_url }}">Home</a>
-      <a class="btn" href="{{ '/data.html' | relative_url }}">Public Data</a>
-      <a class="btn" href="{{ '/publications.html' | relative_url }}">Publications</a>
-      <a class="btn" href="{{ '/team.html' | relative_url }}">Team</a>
-      {% if site.github.repository_url %}
-      <a class="btn" href="{{ site.github.repository_url }}">View on GitHub</a>
+    <div class="header-overlay">
+      <h1 class="project-name">{{ site.title }}</h1>
+      {% if site.description %}
+      <h2 class="project-tagline">{{ site.description }}</h2>
       {% endif %}
+
+      <!-- Unified Button Group -->
+      <div class="button-group">
+        <a class="btn" href="{{ '/index.html' | relative_url }}">Home</a>
+        <a class="btn" href="{{ '/data.html' | relative_url }}">Public Data</a>
+        <a class="btn" href="{{ '/publications.html' | relative_url }}">Publications</a>
+        <a class="btn" href="{{ '/team.html' | relative_url }}">Team</a>
+        {% if site.github.repository_url %}
+        <a class="btn" href="{{ site.github.repository_url }}">View on GitHub</a>
+        {% endif %}
+      </div>
     </div>
   </header>
 

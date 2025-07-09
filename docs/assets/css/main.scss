@@ -90,3 +90,26 @@ a:hover {
   margin: 0 auto;
   padding: 1rem;
 }
+
+/* Page header styles */
+.page-header {
+  background: url('/assets/images/banner.jpg') no-repeat center center;
+  background-size: cover; /* makes image cover whole header */
+  color: white; /* adjust text color for readability */
+  padding: 2rem 1rem; /* add some vertical padding */
+  /* optionally add a semi-transparent overlay */
+  position: relative;
+}
+
+.page-header::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4); /* dark overlay for text contrast */
+  z-index: 0;
+}
+
+.page-header > * {
+  position: relative;
+  z-index: 1; /* keep text above overlay */
+}
