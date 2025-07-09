@@ -1,16 +1,16 @@
 ---
 ---
 
-/* Import the Cayman theme styles */
+/* Import Cayman base theme */
 @import "jekyll-theme-cayman";
 
-/* Custom night/day toggle button styles */
+/* Custom toggle button styles */
 .night-day-toggle {
   position: fixed;
   top: 1em;
   right: 1em;
-  background: var(--color-canvas-subtle, #fff);
-  color: var(--color-fg-default, #222);
+  background: var(--color-canvas-subtle, #ffffff);
+  color: var(--color-fg-default, #24292e);
   border: 1px solid #ccc;
   border-radius: 2em;
   padding: 0.5em 1.2em;
@@ -46,7 +46,7 @@ body.night {
   transition: background 0.3s, color 0.3s;
 }
 
-/* General body styles */
+/* Base styles for light/dark */
 body {
   background: var(--bg);
   color: var(--text);
@@ -62,27 +62,13 @@ a:hover {
   text-decoration: underline;
 }
 
-
-/* Restrict width and center content */
-.main-content {
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 1.5rem;
-  line-height: 1.6;
-  font-size: 1.05rem;
-  word-wrap: break-word;
-}
-
-
-/* Team list styling: two columns on desktop */
+/* Two-column team layout */
 .team-list {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.75rem 2rem;
-  margin-top: 2rem;
   max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2rem auto;
   padding: 0 1rem;
   color: var(--team-name);
 }
@@ -98,6 +84,9 @@ a:hover {
   padding: 0.3rem 0;
 }
 
-.nav-links .btn {
-  margin: 0.25rem;
+/* Page content width */
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
 }
