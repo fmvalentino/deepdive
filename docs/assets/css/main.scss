@@ -30,6 +30,7 @@
   --team-affil: #586069;
   --button-bg: #e1e4e8;
   --button-text: #24292e;
+  --header-text: #000000;
 }
 
 /* NIGHT THEME (Dark) */
@@ -43,6 +44,7 @@ body.night {
   --team-affil: #8b949e;
   --button-bg: #21262d;
   --button-text: #c9d1d9;
+  --header-text: #ffffff;
   transition: background 0.3s, color 0.3s;
 }
 
@@ -60,54 +62,4 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-/* Two-column team layout */
-.team-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.75rem 2rem;
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-  color: var(--team-name);
-}
-
-@media (min-width: 768px) {
-  .team-list {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-.team-member {
-  font-weight: normal;
-  padding: 0.3rem 0;
-}
-
-/* Page content width */
-.main-content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-/* Page header styles (no image URL here) */
-.page-header {
-  background-size: cover;
-  color: white;
-  padding: 2rem 1rem;
-  position: relative;
-}
-
-.page-header::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.4);
-  z-index: 0;
-}
-
-.page-header > * {
-  position: relative;
-  z-index: 1;
 }
