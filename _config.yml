@@ -1,23 +1,2 @@
-# _config.yml at the root of your repo
-
 title: DeepDive
-theme: jekyll-theme-cayman
-
-# Set source folder for your site
-source: docs
-
-# Enable plugins if you want (optional)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Optional: exclude files or folders from build
-exclude:
-  - README.md
-  - node_modules
-  - vendor
-
-# Optional: markdown processor and options
-markdown: kramdown
-kramdown:
-  input: GFM
+baseurl: "/deepdive"
