@@ -18,13 +18,13 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
-      <nav class="top-nav" style="margin: 1em 0;">
-        <a href="/deepdive/" class="btn">Home</a>
-        <a href="/deepdive/publications.html" class="btn">Publications</a>
-        <a href="/deepdive/team.html" class="btn">Team</a>
-        <a href="/deepdive/data.html" class="btn">Data</a>
+      <nav class="main-nav">
+        <a href="/deepdive/" class="nav-btn">Home</a>
+        <a href="/deepdive/publications.html" class="nav-btn">Publications</a>
+        <a href="/deepdive/team.html" class="nav-btn">Team</a>
+        <a href="/deepdive/data.html" class="nav-btn">Data</a>
+        <a href="{{ site.github.repository_url }}" class="nav-btn" style="margin-left: auto;">GitHub</a>
       </nav>
-      <a href="{{ site.github.repository_url }}" class="btn" style="margin-left:1em;">View on GitHub</a>
     </header>
 
     <main class="content-wrapper">
