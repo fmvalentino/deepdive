@@ -64,8 +64,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
-
 /* Two-column team layout */
 .team-list {
   display: grid;
@@ -98,7 +96,7 @@ a:hover {
 /* Page header styles */
 .page-header {
   height: 30vh; /* fixed height as before */
-  background: url('/images/banner_deepdive_targets.png') no-repeat center center;
+  background: url('/images/banner_deepdive_targets.png') repeat-x center center;
   background-size: auto 100%; /* scale height fully, width auto */
   color: white;
   padding: 2rem 1rem;
@@ -122,4 +120,5 @@ a:hover {
 .page-header > * {
   position: relative;
   z-index: 1;
+  color: white !important;
 }
