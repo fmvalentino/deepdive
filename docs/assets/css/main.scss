@@ -19,30 +19,47 @@
   transition: background 0.3s, color 0.3s;
 }
 
-/* Dark mode CSS variables */
+/* DAY THEME (Light) */
 :root {
-  --bg: #f6f8fa;
-  --text: #222;
+  --bg: #ffffff;
+  --text: #24292e;
   --link: #0366d6;
-  --team-bg: #fff;
-  --team-name: #222;
-  --team-affil: #555;
+  --secondary-text: #586069;
+  --team-bg: #ffffff;
+  --team-name: #24292e;
+  --team-affil: #586069;
+  --button-bg: #e1e4e8;
+  --button-text: #24292e;
 }
 
+/* NIGHT THEME (Dark) */
 body.night {
-  --bg: #181c1f;
-  --text: #e9e9e9;
+  --bg: #0d1117;
+  --text: #c9d1d9;
   --link: #58a6ff;
-  --team-bg: #23272b;
-  --team-name: #e9e9e9;
-  --team-affil: #b0b8c1;
+  --secondary-text: #8b949e;
+  --team-bg: #21262d;
+  --team-name: #c9d1d9;
+  --team-affil: #8b949e;
+  --button-bg: #21262d;
+  --button-text: #c9d1d9;
   transition: background 0.3s, color 0.3s;
 }
 
+/* General body styles */
 body {
   background: var(--bg);
   color: var(--text);
   transition: background 0.3s, color 0.3s;
+}
+
+/* Override link styling */
+a {
+  color: var(--link);
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 
