@@ -36,13 +36,15 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
     </div>
   </div>
 
-  <div class="science-row reverse">
-    <img src="images/ism.jpg" alt="Interstellar medium">
-    <div>
-      <h2>Interstellar medium</h2>
-      <p></p>
-    </div>
+ <div class="science-row reverse">
+  <img src="images/ism.jpg" alt="Interstellar medium and outflows">
+  <div>
+    <h2>Interstellar Medium and Outflows</h2>
+    <p>
+      The relative strength and width of rest-frame emission lines provide insight into the ionized interstellar medium—its kinematics, physical conditions, and power sources. In addition, specific absorption features from elements such as sodium, magnesium, and iron trace the neutral gas phase that remains in early quenched galaxies. These spectral diagnostics reveal residual star formation and the presence—and degree of activity—of growing supermassive black holes. In turn, they help us understand how these processes shape the properties and motions of the surrounding gas, often driving powerful outflows that may expel material from galaxies altogether.
+    </p>
   </div>
+</div>
 
   <div class="science-row">
     <img src="/images/environment.jpg" alt="Environment">
