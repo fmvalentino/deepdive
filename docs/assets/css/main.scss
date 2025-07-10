@@ -139,7 +139,7 @@ a:hover {
 .science-row {
   display: flex;
   flex-direction: row;
-  align-items: center; /* vertically center items by default */
+  align-items: center;
   gap: 2rem;
   flex-wrap: wrap;
 }
@@ -155,26 +155,21 @@ a:hover {
   justify-content: center; /* vertically center text content */
 }
 
-/* image-wrapper styles */
-.image-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  flex: 1 1 300px;
-  max-width: 500px;
-}
-
-.image-wrapper img {
+.science-row img {
+  max-width: 100%;
   width: 100%;
-  height: auto;
+  max-width: 500px;
   border-radius: 0.5rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  margin: 0;
+  flex: 1 1 300px;
 }
 
-.citation {
-  margin-top: 0.4rem;
-  font-style: italic;
-  font-size: 0.9rem;
-  color: var(--secondary-text);
+.science-row div {
+  flex: 1 1 300px;
 }
+
+.science-row h2 {
+  margin-top: 0;
+  color: var(--header-text);
+}
+

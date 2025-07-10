@@ -8,7 +8,6 @@ title: DeepDive
 DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (NIRCam) and Near-Infrared Spectrograph (NIRSpec) onboard the James Webb Space Telescope (JWST). It is designed to investigate the properties and underlying physics of massive quiescent galaxies at redshifts z = 3–4 — galaxies that had already ceased star formation when the universe was just ~2 billion years old. DeepDive collected NIRCam imaging and deep, medium-resolution NIRSpec spectra using the G235M/F170LP grating and filter combination for 10 primary targets in major extragalactic fields, and also confirmed several secondary quiescent galaxies at z > 3. Leveraging NIRSpec’s high multiplexing capability, the program also observed around 600 additional “filler” galaxies across 10 pointings, enabling a range of exciting new science cases in galaxy evolution.
 
 <div class="science-section">
-
   <div class="science-row">
     <img src="images/website_sxds_27434.png" alt="Quiescent Galaxies">
     <div>
@@ -18,14 +17,10 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   </div>
 
 <div class="science-row reverse">
-    <div class="image-wrapper">
-    <img src="images/Mstar-z.jpg" alt="Strength in numbers">
-    <div class="citation">Ito et al. 2025</div>
-    </div>
+  <img src="images/Mstar-z.jpg" alt="Strength in numbers">
   <div>
     <h2>Strength in numbers</h2>
-    <p>
-      We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the 
+    <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the 
       <a href="https://dawn-cph.github.io/dja/index.html" target="_blank" rel="noopener noreferrer">Dawn JWST Archive (DJA)</a>. 
       All data have been reduced and analyzed in a homogeneous way and are included in our public data release. 
       The result is a comprehensive sample of nearly 150 systems spanning more than 4.5 billion years of cosmic history at redshifts z > 1!
