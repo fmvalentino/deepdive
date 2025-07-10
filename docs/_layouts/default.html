@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script>
+    (function () {
+      const theme = localStorage.getItem('theme');
+      if (theme === 'night') {
+        document.body?.classList?.add('night');
+      }
+    })();
+  </script>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,11 +49,11 @@
     <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</span>
   </footer>
 
-  <script>
+  <!-- <script>
     function toggleNightMode() {
       document.body.classList.toggle('night');
     }
-  </script>
-
+  </script> -->
+  <script src="{{ '/assets/js/night_day_toggle.js' | relative_url }}"></script>
 </body>
 </html>
