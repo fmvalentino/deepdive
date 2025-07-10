@@ -5,7 +5,7 @@ title: DeepDive
 
 # Team
 
-Alphabetical order:
+<div class="team-member">Francesco Valentino (PI) (DAWN, DTU-Space)</div>
 
 <div class="team-list">
   <div class="team-member">Jacqueline Antwi-Danso (Univ. of Toronto)</div>
@@ -35,7 +35,6 @@ Alphabetical order:
   <div class="team-member">Rhythm Shimakawa (Waseda Univ.)</div>
   <div class="team-member">Masayuki Tanaka (SOKENDAI, NAOJ)</div>
   <div class="team-member">Sune Toft (DAWN, Univ. of Copenhagen)</div>
-  <div class="team-member">Francesco Valentino (PI) (DAWN, DTU-Space)</div>
   <div class="team-member">Aswin Vijayan (Univ. Sussex)</div>
   <div class="team-member">John Weaver (MIT)</div>
   <div class="team-member">Katherine Whitaker (UMass Amherst)</div>
