@@ -21,4 +21,4 @@ The spectroscopic and photometric data reduction was performed with [`msaexp`](h
 - version 4 DJA spectroscopic data release and spectral range extension: [Valentino et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract);
 - Photometric data reduction and release: [Valentino et al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...947...20V/abstract)
 
-Feel free to contact us for any matters related to the released data at: [Kei Ito](mailto:kiito@dtu.dk), [Francesco Valentino](mailto:fmava@dtu.dk)
+Feel free to contact us for any matters related to the released data at: [Kei Ito](mailto:keiit@dtu.dk), [Francesco Valentino](mailto:fmava@dtu.dk)
