@@ -108,19 +108,16 @@ a:hover {
 /* Page header styles */
 .page-header {
   position: relative;
-  width: 100%; /* full width */
+  width: 100%;
   background: url('/images/banner_deepdive_targets.png') repeat-x center center;
-  background-size: auto 100%; /* scale height to 100%, width auto */
+  background-size: auto 100%;
   color: white;
   padding: 2rem 1rem;
-
-  /* Use padding-top for responsive height based on aspect ratio */
-  padding-top: 10vh; /* adjust this to your banner image's aspect ratio */
-  
+  padding-top: 10vh;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertical centering */
-  align-items: center;     /* horizontal centering */
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
@@ -157,11 +154,10 @@ a:hover {
   flex-direction: row-reverse;
 }
 
-/* This targets the text block inside .science-row.reverse */
 .science-row.reverse > div:not(.image-wrapper) {
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertically center text content */
+  justify-content: center;
 }
 
 .science-row img {
@@ -182,7 +178,7 @@ a:hover {
   color: var(--header-text);
 }
 
-/* Team section wrapper to align heading with author list */
+/* Team section wrapper */
 .team-section {
   max-width: 900px;
   margin: 2rem auto;

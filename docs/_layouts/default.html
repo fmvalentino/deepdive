@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" class="">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Apply saved theme class on <html> -->
+  <!-- Load CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- Initial theme load: add night class to <html> if stored -->
   <script>
     (function () {
       const theme = localStorage.getItem('theme');
@@ -14,15 +17,13 @@
       }
     })();
   </script>
-
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body class="{{ page.layout }}">
 
-  <!-- Night/Day toggle: no inline onclick, JS handles this -->
+  <!-- Night/Day toggle button (no inline onclick) -->
   <button class="night-day-toggle">🌙 Night</button>
 
-  <!-- Inline style for header background -->
+  <!-- Header -->
   <header class="page-header" role="banner"
     style="background-image: url('{{ '/images/banner_deepdive_half_targets.png' | relative_url }}');">
     <div class="header-overlay">
@@ -31,7 +32,6 @@
       <h2 class="project-tagline">{{ site.description }}</h2>
       {% endif %}
 
-      <!-- Unified Button Group -->
       <div class="button-group">
         <a class="btn" href="{{ '/index.html' | relative_url }}">Home</a>
         <a class="btn" href="{{ '/data.html' | relative_url }}">Public Data</a>
@@ -52,7 +52,7 @@
     <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</span>
   </footer>
 
-  <!-- Load your toggle script -->
+  <!-- Load toggle script -->
   <script src="{{ '/assets/js/night_day_toggle.js' | relative_url }}"></script>
 </body>
 </html>

@@ -12,12 +12,14 @@
 
   var btn = document.querySelector('.night-day-toggle');
   if (btn) {
-    btn.onclick = function () {
+    // On button click, toggle mode and update button text
+    btn.addEventListener('click', function () {
       var isNight = document.documentElement.classList.contains('night');
       setMode(isNight ? 'day' : 'night');
       btn.innerText = isNight ? '🌙 Night' : '☀️ Day';
-    };
+    });
 
+    // Initialize button text based on saved theme
     var saved = localStorage.getItem('theme');
     if (saved === 'night') {
       setMode('night');
