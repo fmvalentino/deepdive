@@ -5,9 +5,9 @@ title: DeepDive
 
 # Team
 
-<div class="team-member">Francesco Valentino (PI) (DAWN, DTU-Space)</div>
 
 <div class="team-list">
+  <div class="team-member">Francesco Valentino (PI) (DAWN, DTU-Space)</div>
   <div class="team-member">Jacqueline Antwi-Danso (Univ. of Toronto)</div>
   <div class="team-member">William Baker (DARK, Univ. of Copenhagen)</div>
   <div class="team-member">Gabriel Brammer (DAWN, Univ. of Copenhagen)</div>
