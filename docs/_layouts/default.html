@@ -1,23 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 <head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Apply saved theme class on <html> -->
   <script>
     (function () {
       const theme = localStorage.getItem('theme');
       if (theme === 'night') {
-        document.body?.classList?.add('night');
+        document.documentElement.classList.add('night');
       }
     })();
   </script>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body class="{{ page.layout }}">
 
-  <!-- Night/Day toggle -->
-  <button class="night-day-toggle" onclick="toggleNightMode()">🌙 / ☀️</button>
+  <!-- Night/Day toggle: no inline onclick, JS handles this -->
+  <button class="night-day-toggle">🌙 Night</button>
 
   <!-- Inline style for header background -->
   <header class="page-header" role="banner"
@@ -49,11 +52,7 @@
     <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</span>
   </footer>
 
-  <!-- <script>
-    function toggleNightMode() {
-      document.body.classList.toggle('night');
-    }
-  </script> -->
+  <!-- Load your toggle script -->
   <script src="{{ '/assets/js/night_day_toggle.js' | relative_url }}"></script>
 </body>
 </html>
