@@ -18,10 +18,10 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   </div>
 
 <div class="science-row reverse">
-  <div style="width: 100%; text-align: right; font-style: italic; margin-bottom: 0.5rem;">
-    Ito et al. 2025
+  <div class="image-wrapper">
+    <div class="citation">Ito et al. 2025</div>
+    <img src="images/Mstar-z.jpg" alt="Strength in numbers">
   </div>
-  <img src="images/Mstar-z.jpg" alt="Strength in numbers">
   <div>
     <h2>Strength in numbers</h2>
     <p>
@@ -32,8 +32,6 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
     </p>
   </div>
 </div>
-
-
 
   <div class="science-row">
     <img src="/images/sfhs.jpg" alt="Star formation histories">
