@@ -41,7 +41,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   <div>
     <h2>Interstellar Medium and Outflows</h2>
     <p>
-      The relative strength and width of rest-frame emission lines provide insight into the ionized interstellar medium—its kinematics, physical conditions, and power sources. In addition, specific absorption features from elements such as sodium, magnesium, and iron trace the neutral gas phase that remains in early quenched galaxies. These spectral diagnostics reveal residual star formation and the presence—and degree of activity—of growing supermassive black holes. In turn, they help us understand how these processes shape the properties and motions of the surrounding gas, often driving powerful outflows that may expel material from galaxies altogether.
+    The strength and width of rest-frame emission lines reveal the kinematics, conditions, and energy sources of the ionized interstellar medium. Absorption features from elements like sodium, magnesium, and iron trace the neutral gas in early quenched galaxies. These diagnostics expose residual star formation and active supermassive black holes, helping us understand how they shape the surrounding gas and drive galaxy-scale outflows.
     </p>
   </div>
 </div>
