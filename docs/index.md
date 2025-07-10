@@ -17,7 +17,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   </div>
 
 <div class="science-row reverse">
-  <img src="images/Mstar-z.jpg" alt="Strength in numbers">
+  <img src="images/statistics.jpg" alt="Strength in numbers">
   <div>
     <h2>Strength in numbers</h2>
     <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the 
