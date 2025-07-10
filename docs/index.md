@@ -18,7 +18,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   </div>
 
   <div class="science-row reverse">
-    <img src="images/Mstar-z.pdf" alt="Strength in numbers">
+    <img src="images/Mstar-z.jpg" alt="Strength in numbers">
     <div>
       <h2>Strength in numbers</h2>
       <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the Dawn JWST Archive ([DJA](https://dawn-cph.github.io/dja/index.html)).  All data have been reduced and analyzed in a homogeneous way and are included in our public data release. The result is a comprehensive sample of nearly 150 systems spanning more than 4.5 billion years of cosmic history at redshifts z > 1!</p>
