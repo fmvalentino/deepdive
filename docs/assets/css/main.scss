@@ -96,6 +96,16 @@ a:hover {
   box-sizing: border-box;
 }
 
+/* Heading colors inside main content only */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: var(--header-text);
+}
+
 /* Page header styles */
 .page-header {
   position: relative;
@@ -173,10 +183,6 @@ a:hover {
   color: var(--header-text);
 }
 
-/* Override default heading color */
-h1, h2, h3, h4, h5, h6 {
-  color: var(--header-text);
-}
 
 /* Team section wrapper to align heading with author list */
 .team-section {
