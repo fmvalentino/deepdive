@@ -33,4 +33,20 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
     </div>
   </div>
 
+  <div class="science-row reverse">
+    <img src="images/ism.jpg" alt="Interstellar medium">
+    <div>
+      <h2>Interstellar medium</h2>
+      <p></p>
+    </div>
+  </div>
+
+  <div class="science-row">
+    <img src="/images/environment.jpg" alt="Environment">
+    <div>
+      <h2>Environment</h2>
+      <p></p>
+    </div>
+  </div>
+
 </div>
