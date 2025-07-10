@@ -12,24 +12,24 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   <div class="science-row">
     <img src="images/website_sxds_27434.png" alt="Quiescent Galaxies">
     <div>
-      <h2>Quiescent Galaxies at Cosmic Noon</h2>
-      <p>We investigate massive galaxies that quenched star formation by z ≈ 3–4, providing insight into early galaxy evolution, mass assembly, and environmental quenching mechanisms.</p>
+      <h2>Early quiescent galaxies</h2>
+      <p>Deep spectroscopic observations reveal faint absorption features in the stars’ atmospheres and emission lines from the remaining ionized gas within these galaxies. This detailed information allows us to measure their total stellar mass, uncover chemical composition, and reconstruct their formation and growth history. We can also detect pockets of ongoing star formation and identify active galactic nuclei powered by supermassive black holes. Complemented by exquisite multi-wavelength imaging, these data enable precise measurements of galaxy sizes and structural properties.</p>
     </div>
   </div>
 
   <div class="science-row reverse">
-    <img src="/images/science_topic2.jpg" alt="Star Formation Histories">
+    <img src="images/Mstar-z.pdf" alt="Strength in numbers">
     <div>
-      <h2>Star Formation Histories</h2>
-      <p>By analyzing the deep NIRSpec spectra, we recover detailed star formation histories that help constrain when and how rapidly these galaxies formed their stellar mass.</p>
+      <h2>Strength in numbers</h2>
+      <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the Dawn JWST Archive ([DJA](https://dawn-cph.github.io/dja/index.html)).  All data have been reduced and analyzed in a homogeneous way and are included in our public data release. The result is a comprehensive sample of nearly 150 systems spanning more than 4.5 billion years of cosmic history at redshifts z > 1!</p>
     </div>
   </div>
 
   <div class="science-row">
-    <img src="/images/science_topic3.jpg" alt="Filler Galaxy Science">
+    <img src="/images/science_topic3.jpg" alt="Star formation histories">
     <div>
-      <h2>Filler Galaxy Science</h2>
-      <p>The inclusion of hundreds of lower-priority galaxies allows DeepDive to explore a broader range of evolutionary stages, including dusty starbursts, AGN candidates, and more.</p>
+      <h2>Star formation histories</h2>
+      <p>By analyzing the deep NIRSpec spectra, we recover detailed star formation histories that help constrain when and how rapidly these galaxies formed their stellar mass.</p>
     </div>
   </div>
 
