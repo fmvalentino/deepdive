@@ -173,6 +173,10 @@ a:hover {
   color: var(--header-text);
 }
 
+/* Override default heading color */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--header-text);
+}
 
 /* Team section wrapper to align heading with author list */
 .team-section {
