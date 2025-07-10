@@ -139,7 +139,7 @@ a:hover {
 .science-row {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: center; /* vertically center items by default */
   gap: 2rem;
   flex-wrap: wrap;
 }
@@ -148,24 +148,14 @@ a:hover {
   flex-direction: row-reverse;
 }
 
-.science-row img {
-  max-width: 100%;
-  width: 100%;
-  max-width: 500px;
-  border-radius: 0.5rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  flex: 1 1 300px;
+/* This targets the text block inside .science-row.reverse */
+.science-row.reverse > div:not(.image-wrapper) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertically center text content */
 }
 
-.science-row div {
-  flex: 1 1 300px;
-}
-
-.science-row h2 {
-  margin-top: 0;
-  color: var(--header-text);
-}
-
+/* image-wrapper styles */
 .image-wrapper {
   display: flex;
   flex-direction: column;
@@ -179,7 +169,7 @@ a:hover {
   height: auto;
   border-radius: 0.5rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  margin: 0; /* make sure there's no default spacing */
+  margin: 0;
 }
 
 .citation {
