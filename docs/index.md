@@ -17,19 +17,28 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
     </div>
   </div>
 
-  <div class="science-row reverse">
-    <img src="images/Mstar-z.jpg" alt="Strength in numbers">
-    <div>
-      <h2>Strength in numbers</h2>
-      <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the <a href="https://dawn-cph.github.io/dja/index.html" target="_blank" rel="noopener noreferrer"> Dawn JWST Archive (DJA) </a>.  All data have been reduced and analyzed in a homogeneous way and are included in our public data release. The result is a comprehensive sample of nearly 150 systems spanning more than 4.5 billion years of cosmic history at redshifts z > 1!</p>
-    </div>
+<div class="science-row reverse">
+  <div style="width: 100%; text-align: center; font-style: italic; margin-bottom: 0.5rem;">
+    Ito et al. 2025
   </div>
+  <img src="images/Mstar-z.jpg" alt="Strength in numbers">
+  <div>
+    <h2>Strength in numbers</h2>
+    <p>
+      We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the 
+      <a href="https://dawn-cph.github.io/dja/index.html" target="_blank" rel="noopener noreferrer">Dawn JWST Archive (DJA)</a>. 
+      All data have been reduced and analyzed in a homogeneous way and are included in our public data release. 
+      The result is a comprehensive sample of nearly 150 systems spanning more than 4.5 billion years of cosmic history at redshifts z > 1!
+    </p>
+  </div>
+</div>
+
 
   <div class="science-row">
     <img src="/images/sfhs.jpg" alt="Star formation histories">
     <div>
       <h2>Star formation and metal enrichment histories</h2>
-      <p>The features in the continuum spectra of massive quiescent galaxies are sensitive to the age, metal content, and composition of their stars. The combined modeling of spectra and photometry allows for placing independent tight constraints on when and how quickly stars in these massive systems were assembled in the history of the Universe -- and how quickly their growth via star formation was interrupted.</p>
+      <p>The absorption features embedded in the continuum spectra of massive quiescent galaxies are sensitive tracers of the age, chemical composition, and metal content of their stellar populations. By jointly modeling these spectra with multi-wavelength photometry, we can place tight and independent constraints on when these galaxies formed their stars, how rapidly they assembled their mass, and how abruptly star formation was halted.</p>
     </div>
   </div>
 
