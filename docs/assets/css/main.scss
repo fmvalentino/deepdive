@@ -89,9 +89,11 @@ a:hover {
 
 /* Page content width */
 .main-content {
-  max-width: 900px;
+  width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
 }
 
 /* Page header styles */
