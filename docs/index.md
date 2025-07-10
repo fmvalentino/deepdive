@@ -26,10 +26,10 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
   </div>
 
   <div class="science-row">
-    <img src="/images/science_topic3.jpg" alt="Star formation histories">
+    <img src="/images/sfhs.jpg" alt="Star formation histories">
     <div>
-      <h2>Star formation histories</h2>
-      <p>By analyzing the deep NIRSpec spectra, we recover detailed star formation histories that help constrain when and how rapidly these galaxies formed their stellar mass.</p>
+      <h2>Star formation and metal enrichment histories</h2>
+      <p>The features in the continuum spectra of massive quiescent galaxies are sensitive to the age, metal content, and composition of their stars. The combined modeling of spectra and photometry allows for placing independent tight constraints on when and how quickly stars in these massive systems were assembled in the history of the Universe -- and how quickly their growth via star formation was interrupted.</p>
     </div>
   </div>
 
