@@ -7,6 +7,8 @@ title: DeepDive
 
 DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (NIRCam) and Near-Infrared Spectrograph (NIRSpec) onboard the James Webb Space Telescope (JWST, [GO #3567](https://www.stsci.edu/jwst/science-execution/program-information?id=3567)). It is designed to investigate the properties and underlying physics of massive quiescent galaxies at redshifts z = 3–4 — galaxies that had already ceased star formation when the universe was just ~2 billion years old. DeepDive collected NIRCam imaging and deep, medium-resolution NIRSpec spectra using the G235M/F170LP grating and filter combination for 10 primary targets in major extragalactic fields, and also confirmed several secondary quiescent galaxies at z > 3. Leveraging NIRSpec’s high multiplexing capability, the program also observed around 600 additional “filler” galaxies across 10 pointings, enabling a range of exciting new science cases in galaxy evolution.
 
+# Description and primary science goals
+
 <div class="science-section">
   <div class="science-row">
     <img src="images/website_sxds_27434.png" alt="Quiescent Galaxies">
@@ -50,7 +52,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
     <img src="/images/environment.jpg" alt="Environment">
     <div>
       <h2>Environment</h2>
-      <p></p>
+      <p>Given their high masses, our targets are expected to reside in massive dark matter halos that collapsed early and trace overdense regions destined to evolve into galaxy clusters. Combining multi-wavelength imaging with a rich sample of spectroscopically confirmed neighbors, we can map the environments of the first quiescent galaxies and investigate how local density may have influenced their early formation and evolution.</p>
     </div>
   </div>
 
