@@ -49,7 +49,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
 </div>
 
   <div class="science-row">
-    <img src="/images/environment.jpg" alt="Environment">
+    <img src="images/environment.jpg" alt="Environment">
     <div>
       <h2>Environment</h2>
       <p>Given their high masses, our targets are expected to reside in massive dark matter halos that collapsed early and trace overdense regions destined to evolve into galaxy clusters. Combining multi-wavelength imaging with a rich sample of spectroscopically confirmed neighbors, we can map the environments of the first quiescent galaxies and investigate how local density may have influenced their early formation and evolution.</p>
