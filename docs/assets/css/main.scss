@@ -127,3 +127,41 @@ a:hover {
   position: relative;
   z-index: 1;
 }
+
+/* Science sections layout */
+.science-section {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin: 3rem 0;
+}
+
+.science-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.science-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.science-row img {
+  max-width: 100%;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  flex: 1 1 300px;
+}
+
+.science-row div {
+  flex: 1 1 300px;
+}
+
+.science-row h2 {
+  margin-top: 0;
+  color: var(--header-text);
+}
