@@ -169,13 +169,15 @@ a:hover {
 .image-wrapper {
   display: flex;
   flex-direction: column;
-  align-items: flex-end; /* aligns citation to the right */
-  margin-bottom: 1rem;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin: 0; /* remove unnecessary margin */
+  gap: 0.3rem; /* small space between citation and image */
+  flex: 1 1 300px; /* ensures it matches image sizing in .science-row img */
 }
 
 .citation {
   font-style: italic;
   font-size: 0.9rem;
-  margin-bottom: 0.4rem;
   color: var(--secondary-text);
 }
