@@ -170,13 +170,20 @@ a:hover {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  justify-content: flex-start;
-  margin: 0; /* remove unnecessary margin */
-  gap: 0.3rem; /* small space between citation and image */
-  flex: 1 1 300px; /* ensures it matches image sizing in .science-row img */
+  flex: 1 1 300px;
+  max-width: 500px;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 0; /* make sure there's no default spacing */
 }
 
 .citation {
+  margin-top: 0.4rem;
   font-style: italic;
   font-size: 0.9rem;
   color: var(--secondary-text);
