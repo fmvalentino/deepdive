@@ -10,7 +10,7 @@ DeepDive is a spectroscopic and imaging program with the Near-Infrared Camera (N
 <div class="science-section">
 
   <div class="science-row">
-    <img src="/images/science_topic1.jpg" alt="Quiescent Galaxies">
+    <img src="/images/website_sxds_27434.png" alt="Quiescent Galaxies">
     <div>
       <h2>Quiescent Galaxies at Cosmic Noon</h2>
       <p>We investigate massive galaxies that quenched star formation by z ≈ 3–4, providing insight into early galaxy evolution, mass assembly, and environmental quenching mechanisms.</p>
