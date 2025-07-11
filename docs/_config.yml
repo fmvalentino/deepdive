@@ -1,3 +1,6 @@
 title: DeepDive
 description: A deep dive into the physics of the first massive quiescent galaxies in the Universe
 theme: jekyll-theme-cayman
+
+include:
+  - sitemap.xml
