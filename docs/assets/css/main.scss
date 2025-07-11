@@ -185,6 +185,23 @@ a:hover {
   color: var(--header-text);
 }
 
+
+/* Clickable image hover effect */
+.science-row a img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+}
+
+.science-row a img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  border-radius: 0.5rem;
+}
+
+html.night .science-row a img:hover {
+  box-shadow: 0 0 12px rgba(255, 100, 100, 0.3);
+}
+
 /* Team section wrapper */
 .team-section {
   max-width: 900px;
