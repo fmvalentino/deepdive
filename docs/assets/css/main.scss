@@ -141,6 +141,20 @@ a:hover {
   z-index: 1;
 }
 
+.page-header h1 {
+  font-size: 3rem; /* Try 3–4rem for a bigger title */
+  font-weight: bold;
+  margin: 0.5rem 0;
+  color: white; /* Optional: ensures it stays visible */
+}
+
+@media (min-width: 768px) {
+  .page-header h1 {
+    font-size: 4rem;
+  }
+}
+
+
 /* Science sections layout */
 .science-section {
   display: flex;
