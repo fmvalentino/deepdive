@@ -9,34 +9,22 @@ title: DeepDive
 
 # Description and primary science goals
 
-<!-- <div class="science-section">
+<div class="science-section">
   <div class="science-row">
     <img src="images/website_sxds_27434.png" alt="Quiescent Galaxies">
     <div>
       <h2>Early quiescent galaxies</h2>
       <p>Deep spectroscopic observations reveal faint absorption features in the stars’ atmospheres and emission lines from the remaining ionized gas within these galaxies. <b>This detailed information allows us to measure their total stellar mass, uncover chemical composition, and reconstruct their formation and growth history.</b> We can also detect pockets of ongoing star formation and identify active galactic nuclei powered by supermassive black holes. Exquisite multi-wavelength imaging enable precise measurements of galaxy sizes and structural properties.</p>
     </div>
-  </div> -->
-
-<div class="science-section">
-  <div class="science-row">
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract" target="_blank" rel="noopener noreferrer">
-      <img src="images/website_sxds_27434.png" alt="Quiescent Galaxies">
-    </a>
-    <div>
-      <h2>Early quiescent galaxies</h2>
-      <p>
-        Deep spectroscopic observations reveal faint absorption features in the stars’ atmospheres and emission lines from the remaining ionized gas within these galaxies.
-        <b>This detailed information allows us to measure their total stellar mass, uncover chemical composition, and reconstruct their formation and growth history.</b>
-        We can also detect pockets of ongoing star formation and identify active galactic nuclei powered by supermassive black holes. Exquisite multi-wavelength imaging enable precise measurements of galaxy sizes and structural properties.
-      </p>
-    </div>
   </div>
-</div>
+
 
 <div class="science-row reverse">
-  <img src="images/statistics.jpg" alt="Strength in numbers">
-  <div>
+  <!-- <img src="images/statistics.jpg" alt="Strength in numbers"> -->
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract" target="_blank" rel="noopener noreferrer">
+      <img src="images/statistics.jpg" alt="Strength in numbers">
+    </a>
+    <div>
     <h2>Strength in numbers</h2>
     <p>We complemented our publicly available observations with a thorough search for massive quiescent galaxies with similar JWST spectroscopic and photometric coverage in the 
       <a href="https://dawn-cph.github.io/dja/index.html" target="_blank" rel="noopener noreferrer">Dawn JWST Archive (DJA)</a>. 
