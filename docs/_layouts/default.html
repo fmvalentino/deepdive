@@ -5,6 +5,45 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <meta name="keywords" content="
+  research, data, publications, team, science, GitHub Pages,
+  DeepDive, 
+  James Webb Space Telescope, 
+  JWST, 
+  NIRCam, 
+  NIRSpec, 
+  spectroscopy,
+  photometry,
+  deep field, 
+  quiescent galaxies, 
+  quenched galaxies, 
+  galaxy formation,
+  galaxy evolution, 
+  redshift, 
+  extragalactic fields, 
+  star formation histories, 
+  interstellar medium, 
+  galaxy clusters, 
+  astronomical research
+  ">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph Meta (for social media sharing) -->
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png">
+
+  <!-- Twitter Card Meta -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <meta name="twitter:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png">
+
+
   <!-- Load CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
