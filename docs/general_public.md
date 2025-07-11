@@ -24,7 +24,7 @@ title: DeepDive
 
 <!-- Full-width image row -->
 <div class="full-width-image-wrapper">
-  <img src="images/general_public_mqg.png" alt="General Public MQGs" class="full-width-image">
+  <img src="images/general_public_spectrum.png" alt="General Public MQGs" class="full-width-image">
 </div>
   <!-- Regular row with text -->
   <div class="science-row">
