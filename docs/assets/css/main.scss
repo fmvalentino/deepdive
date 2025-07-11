@@ -50,9 +50,9 @@ html.night {
 
 /* In NIGHT mode, update button style */
 html.night .night-day-toggle {
-  background: #ff7066;
+  background: #8b3a3a;   /* Muted, deeper red */
   color: #ffffff;
-  border-color: #ff8a76;
+  border-color: #a24c4c; /* Slightly lighter red for border contrast */
 }
 
 /* Base styles for light/dark */
