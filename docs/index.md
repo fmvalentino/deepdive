@@ -43,7 +43,9 @@ title: DeepDive
   </div>
 
  <div class="science-row reverse">
-  <img src="images/ism_outflows.png" alt="Interstellar medium and outflows">
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract" target="_blank" rel="noopener noreferrer">
+        <img src="images/ism_outflows.png" alt="Interstellar medium and outflows">
+    </a>
   <div>
     <h2>Interstellar Medium and Outflows</h2>
     <p>
@@ -53,7 +55,7 @@ title: DeepDive
 </div>
 
   <div class="science-row">
-    <img src="images/environment.jpg" alt="Environment">
+    <img src="images/environment.png" alt="Environment">
     <div>
       <h2>Large-scale environment</h2>
       <p>Given their high masses, our targets are expected to reside in massive dark matter halos that collapsed early and trace overdense regions destined to evolve into galaxy clusters. Combining multi-wavelength imaging with a rich sample of spectroscopically confirmed neighbors,<b>we can map the environments of the first quiescent galaxies and investigate how local density may have influenced their early formation and evolution.</b></p>
