@@ -3,7 +3,7 @@ layout: default
 title: DeepDive
 ---
 
-# Why Did the First Galaxies Burn Out So Fast?
+# The Rise and Fall of the First Massive Galaxies
 
 <div class="science-section">
   <div class="science-row">
