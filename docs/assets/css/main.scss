@@ -154,6 +154,17 @@ a:hover {
   }
 }
 
+.site-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--secondary-text);
+  padding: 2rem 1rem;
+  border-top: 1px solid #ddd;
+}
+
+html.night .site-footer {
+  border-top: 1px solid #333;
+}
 
 /* Science sections layout */
 .science-section {

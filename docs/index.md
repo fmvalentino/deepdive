@@ -35,7 +35,7 @@ title: DeepDive
 </div>
 
   <div class="science-row">
-    <img src="/images/sfhs.jpg" alt="Star formation histories">
+    <img src="images/sfh.png" alt="Star formation histories">
     <div>
       <h2>Star formation and metal enrichment histories</h2>
       <p>The absorption features embedded in the continuum spectra of massive quiescent galaxies are sensitive tracers of the age, chemical composition, and metal content of their stellar populations. By jointly modeling these spectra with multi-wavelength photometry, <b>we can place tight constraints on when these galaxies formed their stars, how rapidly they assembled their mass, and how abruptly star formation was halted.</b></p>
