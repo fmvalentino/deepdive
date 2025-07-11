@@ -48,6 +48,13 @@ html.night {
   transition: background 0.3s, color 0.3s;
 }
 
+/* In NIGHT mode, update button style */
+html.night .night-day-toggle {
+  background: #ff7066;
+  color: #ffffff;
+  border-color: #ff8a76;
+}
+
 /* Base styles for light/dark */
 body {
   background: var(--bg);
