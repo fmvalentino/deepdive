@@ -186,13 +186,21 @@ a:hover {
 }
 
 /* Make specific image full width */
-.full-width-image {
+.full-width-image-wrapper {
   width: 100%;
-  max-width: 100%;
-  flex: 0 0 100%;
-  border-radius: 0.5rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 2rem 0;
 }
+
+.full-width-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
 
 /* Clickable image hover effect */
 .science-row a img {
