@@ -18,6 +18,17 @@ title: DeepDive
   </div>
 </div>
 
+
+
 # How do we measure galaxy properties?
 
-To study galaxies, astronomers collect their light using giant eyes pointed at the sky—telescopes. This light, stretched across different wavelengths or colors, holds clues about the stars, gas, and dust inside each galaxy. By spreading the light into a spectrum, much like a rainbow, we can detect faint absorption features imprinted by chemical elements in the stars. The position of these features reveals the galaxy’s distance, while their depth tells us about the ages and chemical composition of the stellar populations. The relative wavelength and width of the features shows how stars are moving within the galaxy. Emission lines, on the other hand, come from glowing clouds of ionized gas and can signal ongoing star formation or the presence of energetic processes like growing super-massive black holes in their central regions.
+<!-- Full-width image row -->
+<div class="full-width-image-wrapper">
+  <img src="images/general_public_mqg.png" alt="General Public MQGs" class="full-width-image">
+</div>
+  <!-- Regular row with text -->
+  <div class="science-row">
+
+  <p>To study galaxies, astronomers collect their light using giant eyes pointed at the sky—telescopes. This light, stretched across different wavelengths or colors, holds clues about the stars, gas, and dust inside each galaxy. By spreading the light into a spectrum, much like a rainbow, we can detect faint absorption features imprinted by chemical elements in the stars. The position of these features reveals the galaxy’s distance, while their depth tells us about the ages and chemical composition of the stellar populations. The relative wavelength and width of the features shows how stars are moving within the galaxy. Emission lines, on the other hand, come from glowing clouds of ionized gas and can signal ongoing star formation or the presence of energetic processes like growing super-massive black holes in their central regions.</p>  
+  </div>
+</div>
