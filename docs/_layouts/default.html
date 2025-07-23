@@ -33,16 +33,18 @@
   <!-- Open Graph Meta (for social media sharing) -->
   <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png">
+  <!-- <meta property="og:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png"> -->
+  <meta property="og:image" content="{{ site.url }}{{ '/images/banner_deepdive_half_targets.png' | relative_url }}">
 
   <!-- Twitter Card Meta -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-  <meta name="twitter:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png">
-
+  <!-- <meta name="twitter:image" content="{{ site.url }}/images/banner_deepdive_half_targets.png"> -->
+  <meta name="twitter:image" content="{{ site.url }}{{ '/images/banner_deepdive_half_targets.png' | relative_url }}">
+  
   <!-- Google verification tag -->
   <meta name="google-site-verification" content="S38RAuchrb3B5yfkkGFbsb56VlkB6LNei1mU2n4QO2Q" />
 

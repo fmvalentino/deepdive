@@ -11,7 +11,10 @@ title: DeepDive
 
 **Calibrated spectra and photometric catalogs**
 
-The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies can be found here: [Zenodo link](link)
+<!-- The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies can be found here: [Zenodo link](link)
+The archive is accompanied by a ReadMe file. -->
+
+The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies will soon be made available.
 The archive is accompanied by a ReadMe file.
 
 If you use all or part of this dataset, please cite: [Ito et al., 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract).
