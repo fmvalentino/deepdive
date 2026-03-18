@@ -8,6 +8,12 @@ title: DeepDive
 
 A list of our key publications:
 
+- [There and back again? Neutral outflows in z~3.5 quiescent galaxies](https://ui.adsabs.harvard.edu/abs/2026arXiv260217767Z/abstract) – Zhu, P., Ito, K., Valentino, F. et al., A&A, 2026 (submitted).
+
+- [DeepDive: Tracing the early quenching pathways of massive quiescent galaxies at z>3 from their star-formation histories and chemical abundances](https://ui.adsabs.harvard.edu/abs/2026arXiv260202485H/abstract) – Hamadouche, M., Whitaker, K., Valentino, F. et al., ApJ, 2026 (submitted).
+
+- [Dynamical properties and star formation history of a low-mass quenched galaxy at Cosmic Noon](https://ui.adsabs.harvard.edu/abs/2026arXiv260101722I/abstract) – Ito, K., Valentino, F., Baker, W. et al., A&A, 2026 (submitted).
+
 - [DeepDive: A deep dive into the physics of the first massive quiescent galaxies in the Universe ](https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract) **(Survey paper)** – Ito, K., Valentino, F., Brammer G., et al., A&A, 2025 (submitted).
 
 - [A merging pair of massive quiescent galaxies at z = 3.44 in the Cosmic Vine](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.111I/abstract) – Ito, K., Valentino, F., Farcy, M. et al., A&A, 697, 111 (2025).
