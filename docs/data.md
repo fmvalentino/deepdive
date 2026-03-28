@@ -11,7 +11,7 @@ Newly acquired NIRCam images with the F150W, F200W, F356W, and F444W filters for
 
 **Calibrated spectra and photometric catalogs**
 
-The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies are available on [Zenodo](href="https://doi.org/10.5281/zenodo.18682220). The archive is accompanied by a ReadMe file. 
+The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies are available on [Zenodo](https://doi.org/10.5281/zenodo.18682220). The archive is accompanied by a ReadMe file. 
 
 If you use all or part of this dataset, please cite: [Ito et al., 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract) and the Zenodo doi of the data release.
 
