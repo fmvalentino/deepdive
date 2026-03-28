@@ -7,7 +7,7 @@ title: DeepDive
 
 **Imaging mosaics**
 
-NIRCam images with F150W, F200W, F356W, and F444W for primary target not included in the Dawn JWST Archive are available on request.
+Newly acquired NIRCam images with the F150W, F200W, F356W, and F444W filters for primary targets not included in the Dawn JWST Archive are available on request.
 
 **Calibrated spectra and photometric catalogs**
 
