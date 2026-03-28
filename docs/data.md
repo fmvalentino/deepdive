@@ -11,9 +11,6 @@ NIRCam images with F150W, F200W, F356W, and F444W for primary target not include
 
 **Calibrated spectra and photometric catalogs**
 
-<!-- The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies can be found here: [Zenodo link](link)
-The archive is accompanied by a ReadMe file. -->
-
 The calibrated spectra and photometric catalogs of the DeepDive and archival massive quiescent galaxies are available here: 
 
         https://doi.org/10.5281/zenodo.18682220.

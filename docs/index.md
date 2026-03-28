@@ -34,8 +34,10 @@ title: DeepDive
   </div>
 </div>
 
-  <div class="science-row">
-    <img src="images/sfh.png" alt="Star formation histories">
+<div class="science-row reverse">
+    <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260202485H/abstract" target="_blank" rel="noopener noreferrer">
+      <img src="images/sfh.jpg" alt="Strength in numbers">
+    </a>
     <div>
       <h2>Star formation and metal enrichment histories</h2>
       <p>The absorption features embedded in the continuum spectra of massive quiescent galaxies are sensitive tracers of the age, chemical composition, and metal content of their stellar populations. By jointly modeling these spectra with multi-wavelength photometry, <b>we can place tight constraints on when these galaxies formed their stars, how rapidly they assembled their mass, and how abruptly star formation was halted.</b></p>
@@ -43,8 +45,8 @@ title: DeepDive
   </div>
 
  <div class="science-row reverse">
-    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract" target="_blank" rel="noopener noreferrer">
-        <img src="images/ism_outflows.png" alt="Interstellar medium and outflows">
+    <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260217767Z/abstract" target="_blank" rel="noopener noreferrer">
+        <img src="images/ism_outflows_zhu.png" alt="Interstellar medium and outflows">
     </a>
   <div>
     <h2>Interstellar Medium and Outflows</h2>
