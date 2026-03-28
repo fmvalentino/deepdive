@@ -34,9 +34,9 @@ title: DeepDive
   </div>
 </div>
 
-<div class="science-row reverse">
+<div class="science-row">
     <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260202485H/abstract" target="_blank" rel="noopener noreferrer">
-      <img src="images/sfh.jpg" alt="Strength in numbers">
+      <img src="images/sfh.png" alt="Strength in numbers">
     </a>
     <div>
       <h2>Star formation and metal enrichment histories</h2>
