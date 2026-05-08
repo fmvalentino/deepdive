@@ -57,7 +57,9 @@ title: DeepDive
 </div>
 
   <div class="science-row">
-    <img src="images/environment.png" alt="Environment">
+    <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260421007K/abstract" target="_blank" rel="noopener noreferrer">
+        <img src="images/environment_v2.png" alt="Environment">
+    </a>
     <div>
       <h2>Large-scale environment</h2>
       <p>Given their high masses, our targets are expected to reside in massive dark matter halos that collapsed early and trace overdense regions destined to evolve into galaxy clusters. Combining multi-wavelength imaging with a rich sample of spectroscopically confirmed neighbors,<b>we can map the environments of the first quiescent galaxies and investigate how local density may have influenced their early formation and evolution.</b></p>
