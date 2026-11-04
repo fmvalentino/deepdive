@@ -12,7 +12,7 @@ A list of our key publications:
 
 - [DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters](https://ui.adsabs.harvard.edu/abs/2026arXiv260421007K/abstract) – Kakimoto, T., Tanaka, M., Ito, K. et al., ApJ, 1011, 34 (2026).
 
-- [There and back again? Neutral outflows in z~3.5 quiescent galaxies](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.169Z/abstract) – Zhu, P., Ito, K., Valentino, F. et al., A&A (2026).
+- [There and back again? Neutral outflows in z~3.5 quiescent galaxies](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.169Z/abstract) – Zhu, P., Ito, K., Valentino, F. et al., A&A, 712, 169 (2026).
 
 - [DeepDive: Tracing the early quenching pathways of massive quiescent galaxies at z>3 from their star-formation histories and chemical abundances](https://ui.adsabs.harvard.edu/abs/2026arXiv260202485H/abstract) – Hamadouche, M., Whitaker, K., Valentino, F. et al., ApJ, 2026 (submitted).
 
