@@ -10,19 +10,19 @@ A list of our key publications:
 
 - [ High-ionization coronal lines trace quasar-like activity in recently quenched galaxies at high redshift](https://ui.adsabs.harvard.edu/abs/2026arXiv260530424V/abstract) – Valentino, F., Ito, K., Farcy, M. et al., A&A, 2026 (submitted).
 
-- [DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters](https://ui.adsabs.harvard.edu/abs/2026arXiv260421007K/abstract) – Kakimoto, T., Tanaka, M., Ito, K. et al., ApJ, 2026 (submitted).
+- [DeepDive: Simultaneous Formation of Massive Quiescent Galaxies in High-Redshift Galaxy Proto-clusters](https://ui.adsabs.harvard.edu/abs/2026arXiv260421007K/abstract) – Kakimoto, T., Tanaka, M., Ito, K. et al., ApJ, 1011, 34 (2026).
 
-- [There and back again? Neutral outflows in z~3.5 quiescent galaxies](https://ui.adsabs.harvard.edu/abs/2026arXiv260217767Z/abstract) – Zhu, P., Ito, K., Valentino, F. et al., A&A, 2026 (in press).
+- [There and back again? Neutral outflows in z~3.5 quiescent galaxies](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.169Z/abstract) – Zhu, P., Ito, K., Valentino, F. et al., A&A (2026).
 
 - [DeepDive: Tracing the early quenching pathways of massive quiescent galaxies at z>3 from their star-formation histories and chemical abundances](https://ui.adsabs.harvard.edu/abs/2026arXiv260202485H/abstract) – Hamadouche, M., Whitaker, K., Valentino, F. et al., ApJ, 2026 (submitted).
 
-- [Dynamical properties and star formation history of a low-mass quenched galaxy at Cosmic Noon](https://ui.adsabs.harvard.edu/abs/2026arXiv260101722I/abstract) – Ito, K., Valentino, F., Baker, W. et al., A&A, 2026 (in press).
+- [Dynamical properties and star formation history of a low-mass quenched galaxy at Cosmic Noon](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.122I/abstract) – Ito, K., Valentino, F., Baker, W. et al., A&A, 710, 122 (2026).
 
-- [DeepDive: A deep dive into the physics of the first massive quiescent galaxies in the Universe](https://ui.adsabs.harvard.edu/abs/2025arXiv250622642I/abstract) **(Survey paper)** – Ito, K., Valentino, F., Brammer G., et al., A&A, 2025 (in press).
+- [DeepDive: A deep dive into the physics of the first massive quiescent galaxies in the Universe](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.364I/abstract) **(Survey paper)** – Ito, K., Valentino, F., Brammer G., et al., A&A, 710, 364 (2025).
 
 - [A merging pair of massive quiescent galaxies at z = 3.44 in the Cosmic Vine](https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.111I/abstract) – Ito, K., Valentino, F., Farcy, M. et al., A&A, 697, 111 (2025).
 
-- [Gas outflows in two recently quenched galaxies at z = 4 and 7](https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract) –  Valentino, F., Heintz, K. E., Brammer, G. et al., A&A (2025).
+- [Gas outflows in two recently quenched galaxies at z = 4 and 7](https://ui.adsabs.harvard.edu/abs/2025arXiv250301990V/abstract) –  Valentino, F., Heintz, K. E., Brammer, G. et al., A&A, 699, 358 (2025).
 
 
 <p style="margin-top: 2em;">
